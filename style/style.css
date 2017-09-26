@@ -22,7 +22,8 @@ td:first-of-type, td:first-of-type > div {
 }
 
 .fa {
-    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .jumbotron{
