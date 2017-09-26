@@ -17,10 +17,8 @@ td:first-of-type, td:first-of-type > div {
 }
 
 .social {
-    height: 150px;
-    margin-top: 50px;
+    height: 90px;
     text-align: center;
-    padding-bottom: : 100px;
 }
 
 .fa {
@@ -50,6 +48,27 @@ td:first-of-type, td:first-of-type > div {
 
 .display-3, p {
     z-index: 2;
-    position: relative
+    position: relative;
+    text-align: center;
 }
 
+.display-3 {
+    font-family: 'Righteous', cursive;
+    color: white
+}
+
+.lead {
+    color: white;
+}
+
+.end {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.final-text {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.2em;
+
+}
